@@ -6,3 +6,8 @@ To link it all together into an executable file:
 > g++ -c Sorts.cpp
 > g++ main.o Sorts.o -o application.exe
 ```
+
+To run the app:
+```console
+> application.exe
+```
